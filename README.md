@@ -1,2 +1,0 @@
-# miPaginaPresentacion
-Pagina de Presentación
